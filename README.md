@@ -1,78 +1,118 @@
-# Hi there, I'm Mayank Rathi 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
-![Snake animation](https://github.com/[yourusername]/[yourusername]/blob/output/github-contribution-grid-snake.svg)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Mayank Rathi 
 
 <p align="center">
-  <img src="https://github.com/[yourusername]/[yourusername]/blob/main/images/header.gif?raw=true" alt="header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&width=435&lines=Full+Stack+Developer;Next.js+%7C+React+Expert;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
-## 🛠️ My Skills
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayank-rathi-/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mayankrathi72@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="tel:+919302761190">
+    <img src="https://img.shields.io/badge/-Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+</p>
 
-### 👨‍💻 Programming Languages
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rathii007&label=Profile%20views&color=0e75b6&style=flat" alt="Rathii007" /> 
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+---
 
-### 🧰 Frameworks & Libraries
+## 🎓 Education
+**Indian Institute of Information Technology Bhopal (IIIT Bhopal)**  
+Bachelor of Technology in Information Technology  
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+---
 
-### 🗄️ Databases
+## 🛠️ Tech Stack
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### 📜 Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## 🌟 My Projects
+### 🌐 Web Technologies
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-### 🔥 Featured Repositories
+### 🗃️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[yourusername]&repo=[repo1]&theme=radical)](https://github.com/[yourusername]/[repo1])
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[yourusername]&repo=[repo2]&theme=radical)](https://github.com/[yourusername]/[repo2])
+### 🎨 Styling & Animation
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-## 📈 GitHub Stats
+---
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[yourusername]&show_icons=true&theme=radical&count_private=true)
+## 🚀 Featured Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[yourusername]&layout=compact&theme=radical)
+### ✨ AirResume - Modern Resume Builder
+[![AirResume Demo](https://github-readme-stats.vercel.app/api/pin/?username=Rathii007&repo=AirResume&theme=radical&show_owner=true)](https://github.com/Rathii007/AirResume)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rathii007&repo=AirResume&theme=radical" alt="AirResume" width="400"/>
+</p>
+
+**Features:**
+- Modern, responsive resume builder
+- Multiple template options
+- PDF export functionality
+- Real-time preview
+
+**Tech Stack:** React.js, Tailwind CSS, Framer Motion
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rathii007&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rathii007&theme=radical" alt="GitHub Streak" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathii007&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=[yourusername]&theme=onedark&no-frame=true&row=1&column=7)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rathii007&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
-## ✍️ Blog Posts
+---
 
-<!-- BLOG-POST-LIST:START -->
-- [My Journey into Open Source](https://yourblog.com/journey-into-open-source)
-- [Optimizing React Performance](https://yourblog.com/react-optimization)
-- [Building a REST API with Node.js](https://yourblog.com/node-rest-api)
-<!-- BLOG-POST-LIST:END -->
+## 🎻 Currently Coding To
+
+[![Spotify](https://novatorem-psi-lovat.vercel.app/api/spotify)](https://open.spotify.com/user/31kzowjqfwgqjqj7m3m7m3m7m3m7)
+
+---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/[yourusername]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/[yourusername]"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://dev.to/[yourusername]"><img src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-## 🎧 Currently Listening To
-
-[![Spotify](https://spotify-readme-omega.vercel.app/api/spotify)](https://open.spotify.com/user/[yourspotifyid])
-
-## 💰 Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/[yourusername]" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px"></a>
+  <a href="https://linkedin.com/in/mayank-rathi-/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mayankrathi72@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Rathii007" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[yourusername]&label=Profile%20views&color=0e75b6&style=flat" alt="[yourusername]" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 </p>
