@@ -1,60 +1,77 @@
-<!-- 🕹️ Epic Banner -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749181-413c3620-ff80-4c12-a6d6-1c2d51e7c7ef.gif" alt="hero banner" width="100%" />
-</p>
+# Hi there, I'm Mayank Rathi 👋
 
-<h1 align="center">🧙 Welcome to the Dev Quest of <span style="color:#00ffff">The Coder</span> ⚔️</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Frontend+Fighter+⚔️;Backend+Beast+🔥;Bug+Squasher+Extraordinaire+🔧;Deploying+Dreams+to+the+Clouds+☁️" alt="Typing SVG" />
+  <img src="https://github.com/[yourusername]/[yourusername]/blob/main/images/header.gif?raw=true" alt="header"/>
 </p>
 
----
+## 🛠️ My Skills
 
-### 🎮 Character Stats
-```yaml
-name: The Coder
-class: Full Stack Mage
-level: 99
-skills:
-  - JavaScript: 🔥🔥🔥🔥
-  - Python: 🧠🧠🧠🧠🧠
-  - React: ⚡⚡⚡⚡
-  - Next.js: 🌀🌀🌀🌀
-  - Git: 🧭🧭🧭
-special_items:
-  - Invisibility Cloak (for stealthy AI projects)
-  - Wand of Debugging
-  - Keyboard of +10 Productivity
-🧰 Inventory (Tech Stack)
-<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,react,nextjs,nodejs,tailwind,figma,linux,docker,postgres,git,vscode&theme=light" /> </div>
-🗺️ The Quest Log
+### 👨‍💻 Programming Languages
 
-Mission	Status	XP
-Build Stealth AI Assistant 🤖	🟢 Completed	+500
-Design SkillSwap MVP 🔄	🟢 Completed	+300
-Set up CI/CD with GitHub Actions ⚙️	🟡 In Progress	+200
-Contribute to Open Source (DDP_backend) 🧩	🟡 In Progress	+400
-⚔️ Combat Log (Stats & Achievements)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=⚔️+Dev+Stats+Center+%F0%9F%9A%80" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" /> </p>
-🌀 Magic Scrolls (Side Projects)
-🧙‍♂️ Stealth AI Assistant – Coding silently like a ninja (OCR + AI powered)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
-🧬 AI Dataset Builder – Building your own intelligence brick by brick
+### 🧰 Frameworks & Libraries
 
-🪄 FocusPrompt – Vanish distractions, summon productivity
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-🎭 SkillSwap – Matchmaking for learners and mentors
+### 🗄️ Databases
 
-📡 Summoning Circle (Contact Me)
-<div align="center"> <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/email-Spell%20a%20message%20📨-red?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com"><img src="https://img.shields.io/badge/linkedin-Enchanted%20Network%20🔗-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/portfolio-Enter%20the%20Realm%20🧝‍♂️-purple?style=for-the-badge&logo=firefox&logoColor=white" /></a> </div>
-🧠 Side Buffs
-⚡ I use tmux and neovim like magic scrolls.
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-🐉 I’ve slain over 10,000 bugs in my dev career.
+## 🌟 My Projects
 
-🔍 I see in diffs and think in regex.
+### 🔥 Featured Repositories
 
-🧙‍♂️ Secret Chamber (Details)
-<details> <summary>💬 Show GitHub Activity Graph</summary> <br/> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&area=true" /> </p> </details>
-<p align="center"> <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="random joke" /> </p> ```
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[yourusername]&repo=[repo1]&theme=radical)](https://github.com/[yourusername]/[repo1])
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[yourusername]&repo=[repo2]&theme=radical)](https://github.com/[yourusername]/[repo2])
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[yourusername]&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[yourusername]&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=[yourusername]&theme=onedark&no-frame=true&row=1&column=7)
+
+## ✍️ Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [My Journey into Open Source](https://yourblog.com/journey-into-open-source)
+- [Optimizing React Performance](https://yourblog.com/react-optimization)
+- [Building a REST API with Node.js](https://yourblog.com/node-rest-api)
+<!-- BLOG-POST-LIST:END -->
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/[yourusername]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/[yourusername]"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://dev.to/[yourusername]"><img src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+## 🎧 Currently Listening To
+
+[![Spotify](https://spotify-readme-omega.vercel.app/api/spotify)](https://open.spotify.com/user/[yourspotifyid])
+
+## 💰 Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/[yourusername]" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[yourusername]&label=Profile%20views&color=0e75b6&style=flat" alt="[yourusername]" />
+</p>
