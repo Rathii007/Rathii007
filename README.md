@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mayank-rathi-/" target="_blank">
+  <a href="https://www.linkedin.com/in/mayank-rathi07/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mayankrathi72@gmail.com">
@@ -62,27 +62,6 @@ Bachelor of Technology in Information Technology
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rathii007&repo=AirResume&theme=radical" alt="AirResume" width="400"/>
 </p>
 
-**Features:**
-- Modern, responsive resume builder
-- Multiple template options
-- PDF export functionality
-- Real-time preview
-
-**Tech Stack:** React.js, Tailwind CSS, Framer Motion
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rathii007&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rathii007&theme=radical" alt="GitHub Streak" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathii007&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -93,16 +72,16 @@ Bachelor of Technology in Information Technology
 
 ---
 
-## 🎻 Currently Coding To
-
-[![Spotify](https://novatorem-psi-lovat.vercel.app/api/spotify)](https://open.spotify.com/user/31kzowjqfwgqjqj7m3m7m3m7m3m7)
+<img src="https://activity-graph.herokuapp.com/graph?username=Rathii007&theme=react-dark" alt="Activity Graph"/>
 
 ---
+
+![Snake animation](https://github.com/Rathii007/Rathii007/blob/output/github-contribution-grid-snake.svg)
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/mayank-rathi-/" target="_blank">
+  <a href="https://linkedin.com/in/mayank-rathi07/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mayankrathi72@gmail.com">
