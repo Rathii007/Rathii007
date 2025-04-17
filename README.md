@@ -1,6 +1,7 @@
 # Hi there, I'm Mayank Rathi 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+![Snake animation](https://github.com/[yourusername]/[yourusername]/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://github.com/[yourusername]/[yourusername]/blob/main/images/header.gif?raw=true" alt="header"/>
