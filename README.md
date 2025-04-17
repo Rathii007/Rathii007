@@ -43,18 +43,13 @@
   <img src="https://raw.githubusercontent.com/Rathii007/Rathii007/main/assets/developer-activity.gif" width="200" align="right">
 </p>
 
-- 🔭 Currently working on **Next.js 14 projects**
-- 🌱 Learning **Advanced React Patterns**
+- 🔭 Currently working on **Next.js 14 projects and AI/ML projects**
+- 🌱 Learning **Advanced React Patterns, LLM's, AI Agents**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Next.js or JavaScript**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
+- ⚡ Fun fact: **I love playing PC games**
 
 <br clear="right"/>
-
-## 🎻 Currently Coding To
-
-<!-- Spotify card with music visualizer -->
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31kzowjqfwgqjqj7m3m7m3m7m3m7&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31kzowjqfwgqjqj7m3m7m3m7m3m7&redirect=true)
 
 ## 🛠️ Tech Stack
 
@@ -86,46 +81,28 @@
 **Tech Stack:** React.js, Tailwind CSS, Framer Motion, PDF Generation
 
 ---
+### 🚫 Toxicity Classifier - AI Content Moderation
 
-### 🔥 Next.js E-Commerce
+[![Toxicity Classifier](https://github-readme-stats.vercel.app/api/pin/?username=Rathii007&repo=Toxicity_Classifier&theme=radical&show_owner=true)](https://github.com/Rathii007/Toxicity_Classifier)
 
-[![Next E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=Rathii007&repo=next-ecommerce&theme=radical&show_owner=true)](https://github.com/Rathii007/next-ecommerce)
-
-<!-- Project illustration -->
-<img src="https://raw.githubusercontent.com/Rathii007/Rathii007/main/assets/ecommerce.gif" width="400" align="center">
-
-**Tech Stack:** Next.js 14, Stripe API, MongoDB, Tailwind CSS
-
-</div>
-
-## 📊 GitHub Analytics
-
-<!-- Animated stats section -->
 <div align="center">
-
-<!-- GitHub Stats Rainbow -->
-<img src="https://github-readme-stats.vercel.app/api?username=Rathii007&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" width="400">
-
-<!-- Streak Stats with fire animation -->
-<img src="https://streak-stats.demolab.com?user=Rathii007&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="400">
-
-<!-- Top Languages with animation -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathii007&layout=compact&theme=radical&hide_border=true&langs_count=8" width="400">
-
-<!-- 3D Contribution Graph -->
-<img src="https://raw.githubusercontent.com/Rathii007/Rathii007/output/github-contribution-grid-snake.svg" width="100%">
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathii007&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%">
-
+  <img src="https://raw.githubusercontent.com/Rathii007/Rathii007/main/assets/toxicity-demo.gif" width="500" alt="Toxicity Classifier Demo">
 </div>
 
-## 🏆 GitHub Trophies
+**Tech Stack:** 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-%23007ACC.svg?style=for-the-badge&logo=nltk&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-<!-- Animated trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rathii007&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+**Key Features:**
+- 🧠 Machine learning model to detect toxic content
+- 📊 Analyzes text for multiple toxicity dimensions
+- ⚡ Real-time classification API
+- 📈 Customizable sensitivity thresholds
+- 🛡️ Content moderation dashboard
 
 ## 🤝 Let's Connect
 
